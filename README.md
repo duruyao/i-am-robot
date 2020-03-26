@@ -1,6 +1,7 @@
-# I AM ROBOT
+# I AM ROBOT (C Version)
 
-Simple control system of robot in terminal.
+A simple control system of robot in terminal.
+You can also see **[another version](https://github.com/graycat0918/i-am-robot-cxx)** which coded by C Plus Plus language.
 
 ## Directory
 
