@@ -1,6 +1,7 @@
 # I AM ROBOT (C Version)
 
 A simple control system of robot in terminal.
+
 You can also see **[another version](https://github.com/graycat0918/i-am-robot-cxx)** which coded by C Plus Plus language.
 
 ## Directory
@@ -47,7 +48,7 @@ $ git clone https://github.com/graycat0918/i-am-robot.git
 $ cd i-am-robot/
 $ make
 ```
-Execute the file named 'run' to start a control system, and press `Esc` to quit.
+Execute the file named 'run' to start a control system, and press **`Esc`** to quit.
 
 ```shell
 $ ./run
